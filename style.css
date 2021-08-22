@@ -7,3 +7,9 @@ font-family: 'IBM Plex Mono', monospace;
 #dropdown_dayofweek .Select-placeholder {
 color: black;
 }
+
+#dropdown_dayofweek {
+    background-color: green;
+    border-color: #e3a700;
+    color: orange;
+}
